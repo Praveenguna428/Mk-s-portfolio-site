@@ -2,7 +2,7 @@
 
 Welcome to MK's Portfolio Project! This is a personal portfolio website showcasing skills, projects, and achievements in web development and beyond.
 
-![Portfolio Preview](assets/portfolio-preview.png) <!-- Replace with an actual screenshot -->
+![Portfolio Preview](https://github.com/Praveenguna428/img-hub/blob/main/project%20review.png?raw=true) <!-- Replace with an actual screenshot -->
 
 ## Features
 - **Dark Theme**: A modern and elegant dark theme.
@@ -14,8 +14,7 @@ Welcome to MK's Portfolio Project! This is a personal portfolio website showcasi
 ## Live Demo
 
 Click the button below to view the live demo:
-
-[![View Live Demo](https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge&logo=github)](https://your-live-demo-link.com) <!-- Replace with your actual live demo link -->
+[![View Live Demo](https://github.com/Praveenguna428/img-hub/blob/main/preview%20button%20.png?raw=true)](https://praveenguna428.github.io/Mk-s-portfolio-site/) <!-- Replace with your actual live demo link -->
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
@@ -41,14 +40,6 @@ Follow these steps to set up the project locally:
    open index.html
    ```
 
-## Screenshots
-
-### Home Page
-![Home Page](assets/home-page.png) <!-- Replace with an actual screenshot -->
-
-### Contact Form
-![Contact Form](assets/contact-form.png) <!-- Replace with an actual screenshot -->
-
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
@@ -61,8 +52,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- Email: your.email@example.com
-- LinkedIn: [MK's LinkedIn](https://praveenguna428.github.io/Mk-s-portfolio-site/) <!-- Replace with your actual LinkedIn link -->
+- Email:praveenguna428@gmail.com
+- To reach us: [Drop a msg]( ) <!-- Replace with your actual LinkedIn link -->
 
 ---
 

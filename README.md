@@ -14,7 +14,7 @@ Welcome to MK's Portfolio Project! This is a personal portfolio website showcasi
 ## Live Demo
 
 Click the button below to view the live demo: 
-[![View Live Demo]align left(https://github.com/Praveenguna428/img-hub/blob/main/preview%20button%20.png?raw=true)](https://praveenguna428.github.io/Mk-s-portfolio-site/) <!-- Replace with your actual live demo link -->
+[![View Live Demo](https://github.com/Praveenguna428/img-hub/blob/main/preview%20button%20.png?raw=true)](https://praveenguna428.github.io/Mk-s-portfolio-site/) <!-- Replace with your actual live demo link -->
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript

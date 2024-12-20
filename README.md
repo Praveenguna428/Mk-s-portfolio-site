@@ -53,7 +53,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, feel free to reach out:
 
 - Email:praveenguna428@gmail.com
-- To reach us: [Drop a msg]( ) <!-- Replace with your actual LinkedIn link -->
+- To reach us: [Drop a msg](https://praveenguna428.github.io/contact-us-form/ ) <!-- Replace with your actual LinkedIn link -->
 
 ---
 
